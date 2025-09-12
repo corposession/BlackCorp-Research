@@ -1,0 +1,6 @@
+fastapi
+requests
+gunicorn
+uvicorn[standard]
+python-telegram-bot==3.13
+
