@@ -1,6 +1,6 @@
 fastapi
+uvicorn
 requests
-gunicorn
-uvicorn[standard]
-python-telegram-bot==3.13
+python-telegram-bot==20.3
+pydantic
 
